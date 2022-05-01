@@ -10,4 +10,4 @@ Formado em Sistemas de Telecomunicações | Engenharia da Computação, um apaix
 
 ## Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBGoecking&layout=compact)](https://github.com/ErickBGoecking/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBGoecking&layout=compact)]
