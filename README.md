@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ErickBGoecking/ErickBGoecking/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guiorozimbo/guiorozimbo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
