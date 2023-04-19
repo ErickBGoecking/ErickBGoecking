@@ -1,4 +1,4 @@
-## 👋 E aeee **Erick Braun** aqui! Programador, estudante e tecnólogo nas horas vagas.
+## 👋 E aeee, **Erick Braun** aqui! Programador, estudante e tecnólogo nas horas vagas.
 
 ### <div align="center" style="display: inline_block">Entre em contato comigo, vamos bater um papo e trocar conhecimento.</div>
 
