@@ -24,6 +24,6 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
 </div>
   
-  <br><br>
+  <br>
 
 ![Snake animation](https://github.com/ErickBGoecking/ErickBGoecking/blob/output/github-contribution-grid-snake.svg)
