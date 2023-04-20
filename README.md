@@ -28,6 +28,3 @@
 
 ![Snake animation](https://github.com/ErickBGoecking/ErickBGoecking/blob/output/github-contribution-grid-snake.svg)
 
-<div align='center'>
-  <a href="https://github.com/ErickBGoecking"><img alt="" src="https://komarev.com/ghpvc/?username=ErickBGoecking&color=lightgrey&style=flat-square&label=Visitas"></a>
-</div>
