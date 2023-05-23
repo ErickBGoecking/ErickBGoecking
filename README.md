@@ -9,10 +9,7 @@
   
 <br>
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/ErickBGoecking">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBGoecking&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 
 <div align="center" style="display: inline_block"><br>
